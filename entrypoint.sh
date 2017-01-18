@@ -2,4 +2,4 @@
 
 install -D /install/* /root/.ssh/
 
-exec $@
+exec autossh $@
