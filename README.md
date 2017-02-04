@@ -1,6 +1,9 @@
 # farmcoolcow/autossh
 
-[![](https://img.shields.io/badge/  FROM  -  alpine  -lightgray.svg)](https://hub.docker.com/_/alpine) ![](https://images.microbadger.com/badges/commit/farmcoolcow/autossh.svg) ![](https://images.microbadger.com/badges/image/farmcoolcow/autossh.svg) ![](https://images.microbadger.com/badges/license/farmcoolcow/autossh.svg)
+[![](https://img.shields.io/badge/  FROM  -  alpine  -lightgray.svg)](https://hub.docker.com/_/alpine) 
+[![](https://images.microbadger.com/badges/commit/farmcoolcow/autossh.svg)](https://github.com/coolcow/docker_autossh/commits/master) 
+[![](https://images.microbadger.com/badges/image/farmcoolcow/autossh.svg)](https://microbadger.com/images/farmcoolcow/autossh) 
+[![](https://images.microbadger.com/badges/license/farmcoolcow/autossh.svg)](https://raw.githubusercontent.com/coolcow/docker_autossh/master/LICENSE.txt)
 
 ---
 
